@@ -70,21 +70,22 @@ const CONFIG = {
     {
       id: '4',
       name: 'edx',
-      icon: 'moniter',
-      link: 'https://www.edx.org,
+      icon: 'type',
+      link: 'https://courses.edx.org/dashboard',
     },
     {
       id: '5',
-      name: 'Neso-academy',
-      icon: 'book-open',
-      link: 'https://www.nesoacademy.org/',
-    },
-    {
-      id: '6',
       name: 'Youtube',
       icon: 'youtube',
       link: 'https://youtube.com/',
     },
+    {
+      id: '6',
+      name: 'Neso-academy',
+      icon: 'book-open',
+      link: 'https://nesoacademy.org',
+    },
+  
   ],
 
   // ┬  ┬┌─┐┌┬┐┌─┐
@@ -99,7 +100,7 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Music',
+        name: 'YT Music',
         link: 'https://music.youtube.com/playlist?list=PLD-as7NYUuHhQzonMFBzFiCSNTQaOTft9',
       },
       {
@@ -117,12 +118,12 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Instagram',
-        link: 'https://instagram.com/',
+        name: 'Whatsapp Web',
+        link: 'https://web.whatsapp.com/',
       },
       {
-        name: 'Whatsapp',
-        link: 'https://web.whatsapp.com/',
+        name: 'Instagram',
+        link: 'https://instagram.com/',
       },
       {
         name: 'Dribbble',
