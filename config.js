@@ -75,7 +75,7 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Neso academty',
+      name: 'Neso-academy',
       icon: 'book-open',
       link: 'https://www.nesoacademy.org/',
     },
@@ -113,7 +113,7 @@ const CONFIG = {
       {
         name: 'Rock',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },https://actuallyabhi.github.io/Bento/
+      },
     ],
     secondList: [
       {
