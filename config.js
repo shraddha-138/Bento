@@ -69,15 +69,15 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'edx',
+      icon: 'moniter',
+      link: 'https://www.edx.org,
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Neso academty',
+      icon: 'book-open',
+      link: 'https://www.nesoacademy.org/',
     },
     {
       id: '6',
@@ -99,8 +99,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Music',
+        link: 'https://music.youtube.com/playlist?list=PLD-as7NYUuHhQzonMFBzFiCSNTQaOTft9',
       },
       {
         name: 'Classic',
@@ -117,12 +117,12 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Instagram',
+        link: 'https://instagram.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Whatsapp',
+        link: 'https://web.whatsapp.com/',
       },
       {
         name: 'Dribbble',
