@@ -33,7 +33,7 @@ const CONFIG = {
   defaultLongitude: '81.878357',
 
   // Autochange
-  autoChangeTheme: true,
+  autoChangeTheme: false,
 
   // Autochabge by OS
   changeThemeByOS: false, 
@@ -100,39 +100,32 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'YT Music',
-        link: 'https://music.youtube.com/playlist?list=PLD-as7NYUuHhQzonMFBzFiCSNTQaOTft9',
-      },
-      {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-    ],
-    secondList: [
-      {
-        name: 'Whatsapp Web',
-        link: 'https://web.whatsapp.com/',
-      },
-      {
-        name: 'Instagram',
-        link: 'https://instagram.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Music',
+        link: 'https://beatbump.ml/home',
       },
       {
         name: 'Telegram',
         link: 'https://webk.telegram.org',
       },
+      {
+        name: 'Whatsapp Web',
+        link: 'https://web.whatsapp.com/',
+      }, 
+    ],
+    secondList: [
+      
+      {
+        name: 'Daily Updates',
+        link: 'https://docs.google.com/spreadsheets/d/1GVy0ur9zFDmroNGkiJQyPP-EaLcaQsU5CGRQxvM1H_0/edit#gid=2067337375',
+      },
+      {
+        name: 'Frontend Tasklist',
+        link: 'https://docs.google.com/spreadsheets/d/1BUBMhj3uFtPqUA8CNSCT5cyeQUtDqIL82E-GXRVn8Yc/edit#gid=1789627008',
+      },
+      {
+        name: 'Viewcord',
+        link: 'https://viewcord.netlify.app/',
+      },   
     ],
   },
 };
