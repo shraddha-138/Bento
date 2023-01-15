@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'Abhishek',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
@@ -63,21 +63,21 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Spotify',
+      name: 'BeatBump',
       icon: 'music',
-      link: 'https://open.spotify.com',
+      link: 'https://beatbump.ml/home',
     },
     {
       id: '4',
-      name: 'edx',
+      name: 'LeetCode',
       icon: 'type',
-      link: 'https://courses.edx.org/dashboard',
+      link: 'hhttps://leetcode.com/problemset/all/',
     },
     {
       id: '5',
       name: 'Youtube',
       icon: 'youtube',
-      link: 'https://youtube.com/',
+      link: 'https://piped.video',
     },
     {
       id: '6',
@@ -100,10 +100,6 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Music',
-        link: 'https://beatbump.ml/home',
-      },
-      {
         name: 'Telegram',
         link: 'https://webk.telegram.org',
       },
@@ -113,15 +109,6 @@ const CONFIG = {
       }, 
     ],
     secondList: [
-      
-      {
-        name: 'Daily Updates',
-        link: 'https://docs.google.com/spreadsheets/d/1GVy0ur9zFDmroNGkiJQyPP-EaLcaQsU5CGRQxvM1H_0/edit#gid=2067337375',
-      },
-      {
-        name: 'Frontend Tasklist',
-        link: 'https://docs.google.com/spreadsheets/d/1BUBMhj3uFtPqUA8CNSCT5cyeQUtDqIL82E-GXRVn8Yc/edit#gid=1789627008',
-      },
       {
         name: 'Viewcord',
         link: 'https://viewcord.netlify.app/',
