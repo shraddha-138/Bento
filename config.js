@@ -59,7 +59,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.zoho.in',
+      link: 'https://mail.proton.me/u/0/inbox',
     },
     {
       id: '3',
@@ -81,9 +81,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Neso-academy',
-      icon: 'book-open',
-      link: 'https://nesoacademy.org',
+      name: 'Gmail',
+      icon: 'at-sign',
+      link: 'https://mail.google.com/',
     },
   
   ],
@@ -107,6 +107,11 @@ const CONFIG = {
         name: 'Whatsapp Web',
         link: 'https://web.whatsapp.com/',
       }, 
+      
+      {
+      name: 'Discord',
+      link: 'https://discord.com/channels/@me'
+      }
     ],
     secondList: [
       {
