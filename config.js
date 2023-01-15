@@ -100,18 +100,21 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
-      },
-      {
         name: 'Whatsapp Web',
         link: 'https://web.whatsapp.com/',
       }, 
-      
       {
       name: 'Discord',
       link: 'https://discord.com/channels/@me'
-      }
+      },
+       {
+      name: 'LinkedIn',
+      link: 'https://www.linkedin.com/feed/'
+      },
+       {
+      name: 'Twitter',
+      link: 'https://twitter.com/home'
+      },
     ],
     secondList: [
       {
