@@ -11,10 +11,10 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Abhishek',
+  name: "Shraddha",
   imageBackground: false,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -77,7 +77,7 @@ const CONFIG = {
       id: '5',
       name: 'Youtube',
       icon: 'youtube',
-      link: 'https://piped.video',
+      link: 'https://viewcord.live',
     },
     {
       id: '6',
@@ -118,8 +118,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Viewcord',
-        link: 'https://viewcord.netlify.app/',
+        name: "Instagram",
+        link: "https://instagram.com"
       },   
     ],
   },
